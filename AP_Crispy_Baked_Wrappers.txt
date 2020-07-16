@@ -41,4 +41,6 @@ Allergy warning:
 1. Sausage
 2. Chesse
 3. Black olives
+4. Ingredient for testing 
+
 
